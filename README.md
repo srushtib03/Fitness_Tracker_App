@@ -5,6 +5,8 @@ It tracks BMI, sleep, water intake, and steps, and even provides AI-powered pers
 ## Our team member:- 
 @https://github.com/srushtib03
 @https://github.com/Shravni2006
+@https://github.com/Nikhilsakpal07
+@https://github.com/SrushtiJP
 
 
 ## ⚙️ Key Features
