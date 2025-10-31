@@ -1,0 +1,11 @@
+
+
+# Ignore API keys and databases
+api.env
+fitness.db
+*.db
+
+# Ignore build and system files
+*.class
+*.jar
+.DS_Store
